@@ -1,4 +1,4 @@
-# Education_Video_Classification
+# Student_Engagement_System
 ## Authors
 Juan Manuel Origgi: jmoriggi@bu.edu
 
